@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    text-align: center;
+    width: 80vw;
+    padding: 0;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
+.to_the_top{
+    transform: rotate(180deg);
+}
+.red_display, .blue_display, .green_display{
+    height: 100vh;
+}
+.red_display{
+    background-color: #ea5757;
+}
+.blue_display{
+    background-color: #3d6ccb;
+}
+.green_display{
+    background-color: #41c039;
+}
+.to_the_top{
+    margin-bottom: 80px;
+}
+.to_the_bottom{
+    margin-top: 80px;
+}

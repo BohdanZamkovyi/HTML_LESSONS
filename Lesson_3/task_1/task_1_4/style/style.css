@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-size: 25px;
+}
+p{
+    margin: 0;
+}
+header, .news, .content, .spam, footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    height: 20vh;
+    background-color: #927D7D;
+}
+main{
+    display: flex;
+    height: 60vh;
+}
+.news, .spam{
+    width: 20vw;
+}
+.news{
+    background-color: #817C7C;
+}
+.content{
+    background-color: #A74848;
+    width: 60vw;
+}
+.spam{
+    background-color: #B7AEAE;
+}
+footer{
+    background-color: #BDBDBD;
+    height: 20vh;
+}
