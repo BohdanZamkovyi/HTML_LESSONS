@@ -4,30 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5182df2-210b-4690-962b-69745bd72101" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson_2/task_1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/task_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/task_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/task_2/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/task_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/task_3/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_1/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_2/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_3/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_4/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_1/task_1_5/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_2/images/free-icon-down-arrow-2985150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_2/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/task_3/style/style.css" afterDir="false" />
+    <list default="true" id="c5182df2-210b-4690-962b-69745bd72101" name="Changes" comment="complete homework 3">
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_1/img/bglight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_1/img/card1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_1/img/card2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_1/img/card3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_1/img/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_1/img/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_2/img/Facebook_logo_(square).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_2/img/Instagram_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/task_2/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_1/task_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/task_1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +60,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Богдан\IdeaProjects\HTML_LESSONS\Lesson_4\task_2\img" />
+      <recent name="C:\Users\Богдан\IdeaProjects\HTML_LESSONS\Lesson_4\task_1\img" />
       <recent name="C:\Users\Богдан\IdeaProjects\HTML_LESSONS\Lesson_3" />
       <recent name="C:\Users\Богдан\IdeaProjects\HTML_LESSONS\Lesson_3\task_2\images" />
       <recent name="C:\Users\Богдан\IdeaProjects\HTML_LESSONS\Lesson_3\task1" />
@@ -86,11 +78,26 @@
       <workItem from="1706602606701" duration="1143000" />
       <workItem from="1706805203799" duration="4607000" />
       <workItem from="1707233970640" duration="2316000" />
-      <workItem from="1707287690454" duration="8604000" />
+      <workItem from="1707287690454" duration="8866000" />
+      <workItem from="1707308178513" duration="744000" />
+      <workItem from="1707465682330" duration="12590000" />
     </task>
+    <task id="LOCAL-00001" summary="complete homework 3">
+      <option name="closed" value="true" />
+      <created>1707296904177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707296904177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete homework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete homework 3" />
   </component>
 </project>
