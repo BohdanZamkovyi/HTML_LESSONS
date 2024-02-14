@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5182df2-210b-4690-962b-69745bd72101" name="Changes" comment="complete homework 4">
-      <change afterPath="$PROJECT_DIR$/Lesson_6/task_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/task_1/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/task_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/task_2/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5182df2-210b-4690-962b-69745bd72101" name="Changes" comment="complete homework 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
